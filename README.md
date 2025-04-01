@@ -1,2 +1,2 @@
 # Five-Nights-at-ZRATHS
-I made this because brad's game is ass
+Can you survive five nights with ZRATHS?
