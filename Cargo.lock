@@ -3,7 +3,7 @@
 version = 4
 
 [[package]]
-name = "Five-Nights-at-ZRATHS"
+name = "Round-Table-Simulator"
 version = "0.1.0"
 dependencies = [
  "bevy",

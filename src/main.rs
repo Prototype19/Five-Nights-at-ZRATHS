@@ -1,3 +1,12 @@
+use bevy::prelude::*;
+pub mod game;
+pub mod pizza;
+
 fn main() {
-    println!("Hello, world!");
+    App::new()
+        .add_plugins((
+            DefaultPlugins,
+            game::GamePlugin
+        ))
+        .run();
 }
